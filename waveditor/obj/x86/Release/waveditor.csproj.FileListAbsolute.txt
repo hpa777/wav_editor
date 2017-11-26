@@ -1,0 +1,9 @@
+C:\Users\Pavel\documents\visual studio 2010\Projects\waveditor\waveditor\bin\Release\waveditor.exe
+C:\Users\Pavel\documents\visual studio 2010\Projects\waveditor\waveditor\bin\Release\waveditor.pdb
+C:\Users\Pavel\documents\visual studio 2010\Projects\waveditor\waveditor\bin\Release\NAudio.dll
+C:\Users\Pavel\documents\visual studio 2010\Projects\waveditor\waveditor\bin\Release\NAudio.xml
+C:\Users\Pavel\documents\visual studio 2010\Projects\waveditor\waveditor\obj\x86\Release\waveditor.Form1.resources
+C:\Users\Pavel\documents\visual studio 2010\Projects\waveditor\waveditor\obj\x86\Release\waveditor.Properties.Resources.resources
+C:\Users\Pavel\documents\visual studio 2010\Projects\waveditor\waveditor\obj\x86\Release\waveditor.csproj.GenerateResource.Cache
+C:\Users\Pavel\documents\visual studio 2010\Projects\waveditor\waveditor\obj\x86\Release\waveditor.exe
+C:\Users\Pavel\documents\visual studio 2010\Projects\waveditor\waveditor\obj\x86\Release\waveditor.pdb
